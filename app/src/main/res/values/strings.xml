@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">RateThatRecordDC</string>
+    <string name="txtTitle">Rank These Songs!</string>
+    <string name="txtOrbit">WRLD - Orbit (feat. Richard Caddock)</string>
+    <string name="txtEverchanging">Haywyre - Everchanging</string>
+    <string name="txtClocktown">Theophany - Clocktown</string>
+    <string name="txtMoveTop">Move to Top</string>
+    <string name="txtHint">Hint: Tap the album artwork to play/pause the songs</string>
+    <string name="txtMoveMid">Move to Middle</string>
+    <string name="txtMoveBottom">Move to Bottom</string>
+</resources>
